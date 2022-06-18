@@ -1,2 +1,2 @@
 # learningpy
-Projects I created while learning Python
+Learning Python through projects
